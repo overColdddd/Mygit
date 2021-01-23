@@ -1,10 +1,5 @@
 # Mygit
-I am Readme.md
-<<<<<<< HEAD
-This is modification!
-=======
->>>>>>> 71e885dbadb151774e4916f6153d1afc6ce10821
-This is modification from gitbash
-This is modification!
-This is a new modification
-!!!!
+git Using
+1、add 到文件缓存
+2、commit 到本地仓库
+3、push到远程仓库
