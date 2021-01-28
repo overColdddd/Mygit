@@ -9,7 +9,7 @@ git Using
 使用流程
 
 1、git clone
-2、git branch -b [branch-name]新建分支并切换到该分支
+2、git checkout -b [branch-name]新建分支并切换到该分支
 3、修改
 4、git checkout [branch-name] 切换回主分支
 5、git merge --no-ff [new-branch-name]对新分支进行合并
