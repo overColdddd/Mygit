@@ -7,4 +7,4 @@ wawawa
 this is a main commit 2021/10/31 21:59:00
 this is a demo2 commit 2021/10/31 22:27:00
 try mergetool 22:39:00
-101>branch demo2 new commit on branch demo2
+102 :main change demo2 change this line , a conflict should show up when mergeing two branch
