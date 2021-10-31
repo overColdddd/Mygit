@@ -9,3 +9,5 @@ this is a demo2 commit 2021/10/31 22:27:00
 try mergetool 22:39:00
 102 :main change demo2 change this line , a conflict should show up when mergeing two branch
 103: demo2 first change
+103:main first commit
+104:main second commit
